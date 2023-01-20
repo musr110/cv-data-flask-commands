@@ -1,0 +1,45 @@
+{
+    "personal": {
+        "name": "John Doe",
+        "email": "johndoe@email.com",
+        "phone": "555-555-5555",
+        "location": "New York, NY",
+        "summary": "A highly motivated and experienced software developer with a strong background in building web applications using Python and JavaScript."
+    },
+    "experience": [
+        {
+            "title": "Software Developer",
+            "company": "ACME Inc.",
+            "location": "New York, NY",
+            "start_date": "2019-01-01",
+            "end_date": "2020-12-31",
+            "description": "Developed and maintained web applications using Python and JavaScript. Collaborated with cross-functional teams to deliver projects on time and within budget."
+        },
+        {
+            "title": "Senior Software Engineer",
+            "company": "XYZ Corp.",
+            "location": "Boston, MA",
+            "start_date": "2018-01-01",
+            "end_date": "2018-12-31",
+            "description": "Led the development of several web applications using Python and JavaScript. Supervised a team of junior developers and mentored them in best practices and industry standards."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Computer Science",
+            "university": "University of XYZ",
+            "location": "Boston, MA",
+            "start_date": "2014-01-01",
+            "end_date": "2018-12-31",
+            "gpa": "3.5"
+        },
+        {
+            "degree": "Master of Science in Computer Science",
+            "university": "University of XYZ",
+            "location": "Boston, MA",
+            "start_date": "2019-01-01",
+            "end_date": "2021-12-31",
+            "gpa": "3.8"
+        }
+    ]
+}
